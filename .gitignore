@@ -1,0 +1,7 @@
+
+
+
+*.mp4
+*.mov
+
+**/yolov7-tiny.pt
